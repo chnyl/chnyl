@@ -6,7 +6,7 @@
 
   <h3> "Technical Generalist focused on building scalable systems and driving value creation." </h3>
 
-- ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조** 구축, **Value-accretive** 자본/시스템/사람이 결합된 **레버리지 구조** 확보
+- ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조** 구축
 - 📊 **Data Analysis**: `Google BigQuery`, `Apache Superset` BI 툴을 통해 `SQL`과 `Python` 자유롭게 활용하여 인사이트 도출
 - 🎨 **Visualization**: 15개 이상 PPT 단축키 사용, 벡터 이미지 편집 능력
 - 🤝 **Partnership**: 국내/외 글로벌 대기업들과의 다양한 파트너십 경험
