@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Kakao%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
 </p>
 
-#### 💻 [삼성전자 PSU Calculator](samsungpsu.xyz) ('26.2 1차 Deploy/기능 고도화 작업 중)
+#### 💻 [삼성전자 PSU Calculator](https://samsungpsu.vercel.app/) ('26.2 1차 Deploy/기능 고도화 작업 중)
 
 > **임직원들을 위한 PSU 가치 시뮬레이션 웹 애플리케이션** (React 19 + TypeScript 기반)
 
