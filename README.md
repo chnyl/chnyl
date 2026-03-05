@@ -16,7 +16,7 @@
 
 ### 🚀 My Projects
 
-#### 💌 모바일 청첩장 ('26.3 배포 완료)
+#### 💌 [MY 모바일 청첩장](https://github.com/chnyl/wed_invi_sharing) ('26.3 배포 완료)
 
 > **하루 만에 완성한 프리미엄 반응형 웹 모바일 청첩장** (React 19 + TypeScript 기반)
 
