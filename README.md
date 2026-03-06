@@ -7,27 +7,27 @@
   <h3> "Technical Generalist focused on building scalable systems and driving value creation." </h3>
 
 - ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조** 구축
+- 🤖 **AI Coding & Building**: `Google Antigravity`, `OpenClaw`, `Vercel` 등 활용한 AI Coding 및 프로덕트 개발 진행
 - 📊 **Data Analysis**: `Google BigQuery`, `Apache Superset` BI 툴을 통해 `SQL`과 `Python` 자유롭게 활용하여 인사이트 도출
 - 🎨 **Visualization**: 15개 이상 PPT 단축키 사용, 벡터 이미지 편집 능력
-- 🤝 **Partnership**: 국내/외 글로벌 대기업들과의 다양한 파트너십 경험
-- 🤖 **AI Coding & Building**: `Google Antigravity`, `OpenClaw`, `Vercel` 등 활용한 AI Coding 및 프로덕트 개발 진행
+- 🤝 **Partnership**: 국내/외 글로벌 대기업 파트너십
 
 ---
 
 ### 🚀 My Projects
 
-#### 💌 [MY 모바일 청첩장](https://github.com/chnyl/wed_invi_sharing) ('26.3 배포 완료)
+#### 💌 [모바일 청첩장](https://github.com/chnyl/wed_invi_sharing) ('26.3 배포 완료)
 
 > **하루 만에 완성한 프리미엄 반응형 웹 모바일 청첩장** (React 19 + TypeScript 기반)
 
 - **주요 빌드 히스토리**: **Antigravity**와 **Kimi** AI Coding을 활용하여, 초기 설계부터 Vercel 커스텀 도메인 배포, 카카오링크 API 및 Open Graph 태그 설정까지 **단 하루 만에** 전체 사이클 완수 🎉
 - **Tool Utilization & Architecture**:
-  - **🖼️ UI/UX 흐름 구성**: 메인 커버, 인사말, 신랑신부 소개, 예식 정보, 마음 전하실 곳, 위치 안내까지 핵심 섹션들을 스크롤 한 번으로 매끄럽고 끊김 없이 경험할 수 있도록 동선 최적화.
-  - **📅 시간 동기화 (D-Day 카운터)**: Date 객체와 setInterval을 활용해 예식장 도착까지 남은 밀리초 단위의 시간을 실시간으로 보여주는 직관적인 카운트다운 컴포넌트 탑재.
-  - **🗺️ Maps Integration (딥링크 구현)**: 웹 내 Google Map 임베드 뿐만 아니라, 모바일에서 가장 사용 빈도가 높은 '네이버 지도' 앱으로 즉시 연결되는 딥링크(Deep-link) 버튼을 구현, 하객들의 체감 편의성 극대화.
-  - **🎠 Mobile-First Design (Carousel & Accordion)**: 셔틀버스, 주차장 같은 긴 안내 페이지는 좌우 스와이프가 지원되는 **캐러셀(Carousel)** 형태로 묶고, 계좌 번호는 영역을 절약하는 **아코디언(Accordion)** 접이식 UI로 구현해 모바일 환경에서의 가독성 극대화.
-  - **💬 Kakao SDK 연동**: 카카오링크 API와 Custom Open Graph(OG) 썸네일을 완벽 연동하여, 청첩장 내부에서 원클릭으로 카카오톡 규격에 맞는 커스텀 메시지를 즉시 공유할 수 있도록 네트워크 트러블슈팅 및 구현 해결.
-  - **📸 Firebase Storage 연동**: 예식 당일 하객들의 시선에서 촬영한 생생한 사진을 손쉽게 업로드하고 다함께 볼 수 있도록 **Firebase Storage** 기반 게스트 이미지 리스트업 갤러리 연동 및 보안 룰 최적화.
+  - **UI/UX 흐름 구성**: 메인 커버, 인사말, 신랑신부 소개, 예식 정보, 마음 전하실 곳, 위치 안내까지 핵심 섹션들을 스크롤 한 번으로 매끄럽고 끊김 없이 경험할 수 있도록 동선 최적화.
+  - **시간 동기화 (D-Day 카운터)**: Date 객체와 setInterval을 활용해 예식장 도착까지 남은 밀리초 단위의 시간을 실시간으로 보여주는 직관적인 카운트다운 컴포넌트 탑재.
+  - **Maps Integration (딥링크 구현)**: 웹 내 Google Map 임베드 뿐만 아니라, 모바일에서 가장 사용 빈도가 높은 '네이버 지도' 앱으로 즉시 연결되는 딥링크(Deep-link) 버튼을 구현, 하객들의 체감 편의성 극대화.
+  - **Mobile-First Design (Carousel & Accordion)**: 셔틀버스, 주차장 같은 긴 안내 페이지는 좌우 스와이프가 지원되는 **캐러셀(Carousel)** 형태로 묶고, 계좌 번호는 영역을 절약하는 **아코디언(Accordion)** 접이식 UI로 구현해 모바일 환경에서의 가독성 극대화.
+  - **Kakao SDK 연동**: 카카오링크 API와 Custom Open Graph(OG) 썸네일을 완벽 연동하여, 청첩장 내부에서 원클릭으로 카카오톡 규격에 맞는 커스텀 메시지를 즉시 공유할 수 있도록 네트워크 트러블슈팅 및 구현 해결.
+  - **Firebase Storage 연동**: 예식 당일 하객들의 시선에서 촬영한 생생한 사진을 손쉽게 업로드하고 다함께 볼 수 있도록 **Firebase Storage** 기반 게스트 이미지 리스트업 갤러리 연동 및 보안 룰 최적화.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
