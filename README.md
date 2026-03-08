@@ -6,7 +6,7 @@
 
   <h3> "Technical Generalist focused on building scalable systems and driving value creation." </h3>
 
-- ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조** 구축
+- ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조**
 - 🤖 **AI Coding & Building**: `Google Antigravity`, `OpenClaw`, `Vercel` 등 활용한 AI Coding 및 프로덕트 개발 진행
 - 📊 **Data Analysis**: `Google BigQuery`, `Apache Superset` BI 툴을 통해 `SQL`과 `Python` 자유롭게 활용하여 인사이트 도출
 - 🎨 **Visualization**: 15개 이상 PPT 단축키 사용, 벡터 이미지 편집 능력
@@ -16,7 +16,7 @@
 
 ### 🚀 My Projects
 
-#### 💌 [모바일 청첩장](https://github.com/chnyl/wed_invi_sharing) ('26.3 배포 완료)
+#### 💌 [모바일 청첩장](https://github.com/chnyl/wed_invi_sharing) ('26.3월 배포)
 
 > **하루 만에 완성한 프리미엄 반응형 웹 모바일 청첩장** (React 19 + TypeScript 기반)
 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Kakao%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
 </p>
 
-#### 💻 [삼성전자 PSU Calculator](https://samsungpsu.vercel.app/) ('26.2 1차 Deploy/기능 고도화 작업 중)
+#### 💻 [삼성전자 PSU Calculator](https://samsungpsu.vercel.app/) ('26.2월 배포)
 
 > **임직원들을 위한 PSU 가치 시뮬레이션 웹 애플리케이션** (React 19 + TypeScript 기반)
 
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-#### 📱 GRABITY AI (개발 진행 중)
+#### 📱 GRABITY AI ('26.2~ 개발 중)
 
 > **"한계를 극복하며 성장을 기록하다"** — AI 분석 기반 피트니스 훈련 로그 및 소셜 네트워킹 모바일 앱 (Flutter 기반)
 
