@@ -58,6 +58,23 @@
   <img src="https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
+#### 💻 [삼성전자 임직원몰 세금 계산기](https://samsungtax.xyz) ('26.3 배포 완료)
+
+> **임직원몰 할인 구매 시 발생하는 복리후생비 과세금액 시뮬레이션 웹 애플리케이션** (React 19 + TypeScript 기반)
+
+- **주요 기능**: 정상가/임직원가에 따른 할인 혜택 산출, 7개 소득세율 구간에 따른 Gross-up 방식의 소득세 및 본인 부담 세금 자동 계산.
+- **Tool Utilization & Troubleshooting**:
+  - **Responsive Layout Migration**: 기존 PSU 계산기의 디자인 시스템을 계승하되, 복잡한 단계별 계산 결과창 구성시 모바일에서 발생하는 Flex 래핑 한계와 가로 스크롤 이슈를 유틸리티 튜닝으로 완벽히 해결.
+  - **Step-by-step Visualization**: 직관적인 이해를 돕기 위해 복리후생비 적용 과정(할인 혜택 → 회사 지원세금 → 본인 부담 세금)을 컬러 코딩(Color Coding)과 프로세스 스텝 바 형태로 시각화 구현.
+  - **Extreme Bundle Optimization**: 무거운 서드파티 UI 패키지 의존성을 완전히 벗어나 순수 React State 및 Tailwind 애니메이션만 채택, 불필요한 패키지를 대거 청소하여 극단적으로 가벼운 클라이언트 번들 사이즈 최적화 확보.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
 #### 📱 GRABITY AI ('26.2~ 개발 중)
 
 > **"한계를 극복하며 성장을 기록하다"** — AI 분석 기반 피트니스 훈련 로그 및 소셜 네트워킹 모바일 앱 (Flutter 기반)
