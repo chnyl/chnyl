@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Kakao%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
 </p>
+
 #### 💻 [Samsung Electronics Employee Store Tax Calculator](https://samsungtax.vercel.app) (Deployed Mar '26)
 
 > **A web application for simulating taxable employee benefit amounts when purchasing items at discounted rates from the employee store** (React 19 + TypeScript)
