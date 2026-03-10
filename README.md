@@ -108,7 +108,7 @@
 ---
 
 <div align="center">
-  <h2> 👋 Welcome to CNYL Labs! </h2></div>
+  <h2> 👋 Welcome to CHNYL Labs! </h2></div>
 <br/>
 
 ### 🌟 About Me - AI BUILDING EVERYDAY!
