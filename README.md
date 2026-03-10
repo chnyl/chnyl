@@ -1,12 +1,12 @@
 *🇰🇷 Korean version follows below*
 
 <div align="center">
-<h2> 👋 Welcome to CNYL Labs! </h2>
+<h2> 👋 Welcome to CHNYL Labs! </h2>
 </div>
 
-### 🌟 About Me
+### 🌟 About Me - AI BUILDING EVERYDAY!
+<h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
 
-<h3> "Technical Generalist focused on building scalable systems and driving value creation." </h3>
 
 * ✨ Scalable **automation systems** and **value creation structures**
 * 🤖 **AI Coding & Building**: Developing products and utilizing AI coding with tools like `Google Antigravity`, `OpenClaw`, and `Vercel`.
@@ -111,9 +111,8 @@
   <h2> 👋 Welcome to CNYL Labs! </h2></div>
 <br/>
 
-### 🌟 About Me
-
-  <h3> "Technical Generalist focused on building scalable systems and driving value creation." </h3>
+### 🌟 About Me - AI BUILDING EVERYDAY!
+<h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
 
 - ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조**
 - 🤖 **AI Coding & Building**: `Google Antigravity`, `OpenClaw`, `Vercel` 등 활용한 AI Coding 및 프로덕트 개발 진행
