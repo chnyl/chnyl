@@ -32,17 +32,15 @@
 * **Firebase Storage Integration**: Optimized security rules and integrated a **Firebase Storage**-based guest image gallery, allowing guests to easily upload and share vivid photos taken from their perspective on the big day.
 
 
-
 <p align="left">
-<img src="[https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)" />
-<img src="[https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)" />
-<img src="[https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)" />
-<img src="[https://img.shields.io/badge/Kakao%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black](https://img.shields.io/badge/Kakao%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black)" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kakao%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
 </p>
-
 #### 💻 [Samsung Electronics Employee Store Tax Calculator](https://samsungtax.vercel.app) (Deployed Mar '26)
 
 > **A web application for simulating taxable employee benefit amounts when purchasing items at discounted rates from the employee store** (React 19 + TypeScript)
@@ -54,12 +52,11 @@
 * **Extreme Bundle Optimization**: Completely broke away from heavy third-party UI package dependencies, adopting only pure React State and Tailwind animations. Drastically cleaned up unnecessary packages to secure an extremely lightweight client bundle size optimization.
 
 
-
 <p align="left">
-<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 #### 💻 [Samsung Electronics PSU Calculator](https://samsungpsu.vercel.app/) (Deployed Feb '26)
@@ -73,14 +70,13 @@
 * **Bundle Optimization**: Drastically removed heavy third-party library dependencies (radix, axios, recharts, etc.) and optimized performance using pure React, building a pleasant organic traffic environment and completing Google AdSense integration.
 
 
-
 <p align="left">
-<img src="[https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)" />
-<img src="[https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)" />
-<img src="[https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Google%20AdSense-EA4335?style=flat-square&logo=googleadsense&logoColor=white](https://img.shields.io/badge/Google%20AdSense-EA4335?style=flat-square&logo=googleadsense&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20AdSense-EA4335?style=flat-square&logo=googleadsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 #### 📱 GRABITY AI (In Development since Feb '26)
@@ -96,12 +92,13 @@
 
 
 <p align="left">
-<img src="[https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)" />
-<img src="[https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white)" />
-<img src="[https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-FF6B35?style=flat-square&logo=openai&logoColor=white" />
 </p>
+
 
 
 [![chnyl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chnyl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
