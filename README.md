@@ -25,10 +25,10 @@
 
 Actively studying and contributing to the following open-source projects as the core building blocks:
 
-* **[open-trading-api](https://github.com/koreainvestment/open-trading-api)** — Korea Investment & Securities (KIS) Open API sample code repository, purpose-built for LLM-based automation. Exploring the full pipeline: Strategy Builder → Backtester → Live Order Execution via MCP
-* **[vectorbt](https://github.com/polakowo/vectorbt)** — Vectorized backtesting library powered by Pandas/NumPy/Numba. Using it to prototype rapid multi-asset strategy experiments and HTML report generation (BTC/ETH SMA crossover, parameter heatmaps, Bollinger Bands)
+* **[open-trading-api](https://github.com/chnyl/open-trading-api)** — Korea Investment & Securities (KIS) Open API sample code repository, purpose-built for LLM-based automation. Exploring the full pipeline: Strategy Builder → Backtester → Live Order Execution via MCP
+* **[vectorbt](https://github.com/chnyl/vectorbt)** — Vectorized backtesting library powered by Pandas/NumPy/Numba. Using it to prototype rapid multi-asset strategy experiments and HTML report generation (BTC/ETH SMA crossover, parameter heatmaps, Bollinger Bands)
 * **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — Automated macro indicator & heatmap report bot (KOSPI, S&P 500, Gold, VIX, BTC, etc.) that generates HTML reports and delivers them via Telegram on a GitHub Actions schedule
-* **[dexter](https://github.com/virattt/dexter)** — Autonomous financial research agent (TypeScript/Bun) that decomposes complex financial questions into structured research plans, executes real-time data gathering, and self-validates results. Studying as a reference architecture for building my own financial agent
+* **[dexter](https://github.com/chnyl/dexter)** — Autonomous financial research agent (TypeScript/Bun) that decomposes complex financial questions into structured research plans, executes real-time data gathering, and self-validates results. Studying as a reference architecture for building my own financial agent
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -155,10 +155,10 @@ Actively studying and contributing to the following open-source projects as the 
 
 핵심 빌딩 블록으로 아래 오픈소스 프로젝트들을 적극 탐구 및 기여 중:
 
-- **[open-trading-api](https://github.com/koreainvestment/open-trading-api)** — LLM 자동화 환경에 최적화된 한국투자증권 KIS Open API 샘플 코드 레포. 전략 설계 → 백테스터 → MCP 기반 실주문 실행까지 전체 파이프라인 학습 중
-- **[vectorbt](https://github.com/polakowo/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅 라이브러리. BTC/ETH SMA 크로스오버, 파라미터 히트맵, 볼린저 밴드 등 멀티 에셋 전략 프로토타이핑 및 인터랙티브 HTML 리포트 생성 실험 중
+- **[open-trading-api](https://github.com/chnyl/open-trading-api)** — LLM 자동화 환경에 최적화된 한국투자증권 KIS Open API 샘플 코드 레포. 전략 설계 → 백테스터 → MCP 기반 실주문 실행까지 전체 파이프라인 학습 중
+- **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅 라이브러리. BTC/ETH SMA 크로스오버, 파라미터 히트맵, 볼린저 밴드 등 멀티 에셋 전략 프로토타이핑 및 인터랙티브 HTML 리포트 생성 실험 중
 - **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — KOSPI, S&P 500, 금, VIX, BTC 등 거시 지표와 지수 히트맵을 종합해 HTML 리포트를 생성하고 텔레그램으로 자동 발송하는 매크로 모니터링 봇. GitHub Actions 스케줄 자동화 적용
-- **[dexter](https://github.com/virattt/dexter)** — 복잡한 금융 질문을 구조화된 리서치 플랜으로 분해하고, 실시간 시장 데이터를 수집·자기검증하는 자율 금융 리서치 Agent (TypeScript/Bun 기반). 자체 금융 Agent 설계를 위한 레퍼런스 아키텍처로 학습 중
+- **[dexter](https://github.com/chnyl/dexter)** — 복잡한 금융 질문을 구조화된 리서치 플랜으로 분해하고, 실시간 시장 데이터를 수집·자기검증하는 자율 금융 리서치 Agent (TypeScript/Bun 기반). 자체 금융 Agent 설계를 위한 레퍼런스 아키텍처로 학습 중
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
