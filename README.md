@@ -13,12 +13,36 @@
 * 📊 **Data Analysis**: Freely leveraging `SQL` and `Python` to derive actionable insights using BI tools like `Google BigQuery` and `Apache Superset`.
 * 🎨 **Visualization**: Proficient in vector image editing and utilizing 15+ advanced PowerPoint shortcuts.
 * 🤝 **Partnership**: Experience with domestic and global enterprise partnerships.
+* 💹 **Financial Agent**: Currently exploring the construction of autonomous **Financial AI Agents** — integrating brokerage APIs, quantitative backtesting, and macro intelligence pipelines into a unified, self-operating investment research system.
 
 ---
 
 ### 🚀 My Projects
 
-#### 💌 [Mobile Wedding Invitation](https://github.com/chnyl/wed_invi_sharing) (Deployed Mar '26)
+#### � Financial Agent R&D (In Progress since Mar '26)
+
+> **Building a self-operating Financial AI Agent ecosystem** — connecting brokerage execution, quantitative strategy research, and macro market intelligence
+
+Actively studying and contributing to the following open-source projects as the core building blocks:
+
+* **[open-trading-api](https://github.com/koreainvestment/open-trading-api)** — Korea Investment & Securities (KIS) Open API sample code repository, purpose-built for LLM-based automation. Exploring the full pipeline: Strategy Builder → Backtester → Live Order Execution via MCP
+* **[vectorbt](https://github.com/polakowo/vectorbt)** — Vectorized backtesting library powered by Pandas/NumPy/Numba. Using it to prototype rapid multi-asset strategy experiments and HTML report generation (BTC/ETH SMA crossover, parameter heatmaps, Bollinger Bands)
+* **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — Automated macro indicator & heatmap report bot (KOSPI, S&P 500, Gold, VIX, BTC, etc.) that generates HTML reports and delivers them via Telegram on a GitHub Actions schedule
+* **[dexter](https://github.com/virattt/dexter)** — Autonomous financial research agent (TypeScript/Bun) that decomposes complex financial questions into structured research plans, executes real-time data gathering, and self-validates results. Studying as a reference architecture for building my own financial agent
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VectorBT-4B0082?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/KIS%20Open%20API-E8343A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+#### �💌 [Mobile Wedding Invitation](https://github.com/chnyl/wed_invi_sharing) (Deployed Mar '26)
 
 > **Premium Responsive Web Mobile Wedding Invitation Built in a Single Day** (React 19 + TypeScript)
 
@@ -119,10 +143,34 @@
 - 📊 **Data Analysis**: `Google BigQuery`, `Apache Superset` BI 툴을 통해 `SQL`과 `Python` 자유롭게 활용하여 인사이트 도출
 - 🎨 **Visualization**: 15개 이상 PPT 단축키 사용, 벡터 이미지 편집 능력
 - 🤝 **Partnership**: 국내/외 글로벌 대기업 파트너십
+- 💹 **Financial Agent**: 증권사 API 연동, 퀀트 백테스팅, 매크로 인텔리전스 파이프라인을 하나로 통합한 **자율 금융 AI Agent** 구축에 현재 깊은 관심을 두고 연구 중.
 
 ---
 
 ### 🚀 My Projects
+
+#### 💹 Financial Agent R&D ('26.3~ 진행 중)
+
+> **자율 금융 AI Agent 생태계 구축** — 증권사 실행, 퀀트 전략 리서치, 매크로 시장 인텔리전스를 연결하는 시스템 설계 중
+
+핵심 빌딩 블록으로 아래 오픈소스 프로젝트들을 적극 탐구 및 기여 중:
+
+- **[open-trading-api](https://github.com/koreainvestment/open-trading-api)** — LLM 자동화 환경에 최적화된 한국투자증권 KIS Open API 샘플 코드 레포. 전략 설계 → 백테스터 → MCP 기반 실주문 실행까지 전체 파이프라인 학습 중
+- **[vectorbt](https://github.com/polakowo/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅 라이브러리. BTC/ETH SMA 크로스오버, 파라미터 히트맵, 볼린저 밴드 등 멀티 에셋 전략 프로토타이핑 및 인터랙티브 HTML 리포트 생성 실험 중
+- **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — KOSPI, S&P 500, 금, VIX, BTC 등 거시 지표와 지수 히트맵을 종합해 HTML 리포트를 생성하고 텔레그램으로 자동 발송하는 매크로 모니터링 봇. GitHub Actions 스케줄 자동화 적용
+- **[dexter](https://github.com/virattt/dexter)** — 복잡한 금융 질문을 구조화된 리서치 플랜으로 분해하고, 실시간 시장 데이터를 수집·자기검증하는 자율 금융 리서치 Agent (TypeScript/Bun 기반). 자체 금융 Agent 설계를 위한 레퍼런스 아키텍처로 학습 중
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VectorBT-4B0082?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/KIS%20Open%20API-E8343A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
+---
 
 #### 💌 [모바일 청첩장](https://github.com/chnyl/wed_invi_sharing) ('26.3월 배포)
 
