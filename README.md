@@ -4,7 +4,8 @@
 <h2> 👋 Welcome to CHNYL Labs! </h2>
 </div>
 
-> **2026년 4월부터 진행 중 — Hermes Agent 기반 Second Brain / 개인 Knowledge Ontology 구축 프로젝트**
+> **Ontology-driven Second Brain & Personal Knowledge DB**  
+> *지식의 연결을 설계하고, 사고를 진화시키는 구조*
 
 ### 🌟 About Me - AI BUILDING EVERYDAY!
 <h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
