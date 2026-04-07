@@ -34,11 +34,11 @@
 
 **Related Open Source Building Blocks (learning & contributing):**
 
-* **[open-trading-api](https://github.com/chnyl/open-trading-api)** — KIS API + LLM 자동화 파이프라인. 전략 설계 → 백테스팅 → MCP 기반 실주문 실행 흐름 학습
-* **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅. 빠른 멀티에셋 전략 프로토타입 및 HTML 리포트 생성 실험
-* **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — GitHub Actions 기반 매크로 지표 자동 모니터링 봇. 시장 데이터 수집 → HTML 리포트 → Telegram 전송 파이프라인
-* **[dexter](https://github.com/chnyl/dexter)** — TypeScript/Bun 기반 자율 금융 리서치 에이전트. 복잡한 질문 분해 → 실시간 데이터 수집 → 자기검증 구조 참조 아키텍처
-* **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — 핵심 플랫폼. Self-Evolution 스킬 시스템, 크로스세션 메모리, 멀티에이전트 워크플로 제공
+* **[open-trading-api](https://github.com/chnyl/open-trading-api)** — KIS API + LLM automation pipeline. Learning flow: strategy design → backtesting → MCP-based live order execution.
+* **[vectorbt](https://github.com/chnyl/vectorbt)** — Vectorized backtesting with Pandas/NumPy/Numba. Rapid multi-asset strategy prototyping and HTML report generation experiments.
+* **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — GitHub Actions-based macro indicator auto-monitoring bot. Market data collection → HTML report → Telegram delivery pipeline.
+* **[dexter](https://github.com/chnyl/dexter)** — Autonomous financial research agent (TypeScript/Bun). Complex question decomposition → real-time data gathering → self-validation reference architecture.
+* **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — Core platform. Self-Evolution skill system, cross-session memory, multi-agent workflow.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Hermes%20Agent-6366F1?style=flat-square&logo=github&logoColor=white" />
