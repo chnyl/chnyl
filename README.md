@@ -4,6 +4,8 @@
 <h2> 👋 Welcome to CHNYL Labs! </h2>
 </div>
 
+> **2026년 4월부터 진행 중 — Hermes Agent 기반 Second Brain / 개인 Knowledge Ontology 구축 프로젝트**
+
 ### 🌟 About Me - AI BUILDING EVERYDAY!
 <h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
 
@@ -11,8 +13,6 @@
 * ✨ Scalable **automation systems** and **value creation structures**
 * 🤖 **AI Coding & Building**: Developing products and utilizing AI coding with tools like `Google Antigravity`, `OpenClaw`, and `Vercel`.
 * 📊 **Data Analysis**: Freely leveraging `SQL` and `Python` to derive actionable insights using BI tools like `Google BigQuery` and `Apache Superset`.
-* 🎨 **Visualization**: Proficient in vector image editing and utilizing 15+ advanced PowerPoint shortcuts.
-* 🤝 **Partnership**: Experience with domestic and global enterprise partnerships.
 * 💹 **Financial Agent**: Currently exploring the construction of autonomous **Financial AI Agents** — integrating brokerage APIs, quantitative backtesting, and macro intelligence pipelines into a unified, self-operating investment research system.
 
 ---
@@ -73,7 +73,6 @@ Actively studying and contributing to the following open-source projects as the 
 * **Key Features**: Calculation of discount benefits based on retail/employee prices, and automatic calculation of Gross-up income tax and out-of-pocket tax based on 7 income tax brackets.
 * **Tool Utilization & Troubleshooting**:
 * **Responsive Layout Migration**: Inherited the design system of the existing PSU calculator, but perfectly resolved Flex wrapping limitations and horizontal scrolling issues on mobile during the construction of complex step-by-step calculation result windows through utility tuning.
-* **Step-by-step Visualization**: Implemented visual aids using color coding and a process step bar to intuitively explain the application of employee benefits (Discount Benefit → Company-Supported Tax → Out-of-Pocket Tax).
 * **Extreme Bundle Optimization**: Completely broke away from heavy third-party UI package dependencies, adopting only pure React State and Tailwind animations. Drastically cleaned up unnecessary packages to secure an extremely lightweight client bundle size optimization.
 
 
@@ -112,7 +111,6 @@ Actively studying and contributing to the following open-source projects as the 
 * **Tool Utilization & Troubleshooting**:
 * **Flutter Migration**: Completely ported the existing React-based prototype to the Flutter ecosystem to overcome performance constraints and mobile gesture limitations, securing Native-app-level rendering performance.
 * **ReorderableListView & State Management**: Provided a seamless UX by troubleshooting animation and parallel state synchronization issues that occurred while implementing complex drag-and-drop workout routine UIs.
-* **Data Visualization & Optimization**: Optimized rendering loads that occurred while visualizing workout volume and 12-week trend changes across various periods (1W/1M/3M/All) using custom chart packages.
 
 
 
@@ -141,8 +139,6 @@ Actively studying and contributing to the following open-source projects as the 
 - ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조**
 - 🤖 **AI Coding & Building**: `Google Antigravity`, `OpenClaw`, `Vercel` 등 활용한 AI Coding 및 프로덕트 개발 진행
 - 📊 **Data Analysis**: `Google BigQuery`, `Apache Superset` BI 툴을 통해 `SQL`과 `Python` 자유롭게 활용하여 인사이트 도출
-- 🎨 **Visualization**: 15개 이상 PPT 단축키 사용, 벡터 이미지 편집 능력
-- 🤝 **Partnership**: 국내/외 글로벌 대기업 파트너십
 - 💹 **Financial Agent**: 증권사 API 연동, 퀀트 백테스팅, 매크로 인텔리전스 파이프라인을 하나로 통합한 **자율 금융 AI Agent** 구축에 현재 깊은 관심을 두고 연구 중.
 
 ---
@@ -202,7 +198,6 @@ Actively studying and contributing to the following open-source projects as the 
 - **주요 기능**: 정상가/임직원가에 따른 할인 혜택 산출, 7개 소득세율 구간에 따른 Gross-up 방식의 소득세 및 본인 부담 세금 자동 계산.
 - **Tool Utilization & Troubleshooting**:
   - **Responsive Layout Migration**: 기존 PSU 계산기의 디자인 시스템을 계승하되, 복잡한 단계별 계산 결과창 구성시 모바일에서 발생하는 Flex 래핑 한계와 가로 스크롤 이슈를 유틸리티 튜닝으로 완벽히 해결.
-  - **Step-by-step Visualization**: 직관적인 이해를 돕기 위해 복리후생비 적용 과정(할인 혜택 → 회사 지원세금 → 본인 부담 세금)을 컬러 코딩(Color Coding)과 프로세스 스텝 바 형태로 시각화 구현.
   - **Extreme Bundle Optimization**: 무거운 서드파티 UI 패키지 의존성을 완전히 벗어나 순수 React State 및 Tailwind 애니메이션만 채택, 불필요한 패키지를 대거 청소하여 극단적으로 가벼운 클라이언트 번들 사이즈 최적화 확보.
 
 <p align="left">
@@ -240,7 +235,6 @@ Actively studying and contributing to the following open-source projects as the 
 - **Tool Utilization & Troubleshooting**:
   - **Flutter Migration**: 기존 React 기반 프로토타입의 퍼포먼스 제약과 모바일 제스처 한계를 극복하기 위해 Flutter 생태계로 전면 포팅하여 Native 앱 수준의 렌더링 성능 확보.
   - **ReorderableListView & State Management**: 복잡한 드래그 앤 드랍 운동 루틴 UI를 구현하며 발생하는 애니메이션 및 병렬 상태 동기화 이슈를 트러블슈팅하여 매끄러운 UX 제공.
-  - **Data Visualization & Optimization**: 커스텀 차트 패키지를 활용해 다양한 주기(1W/1M/3M/All)의 운동 볼륨 및 12주 트렌드 변화 시각화 과정에서 발생한 렌더링 부하 최적화.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
