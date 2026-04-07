@@ -145,10 +145,10 @@
 ### 🌟 About Me - AI BUILDING EVERYDAY!
 <h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
 
-- ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조**
-- 🤖 **AI Coding & Building**: `Google Antigravity`, `OpenClaw`, `Vercel` 등 활용한 AI Coding 및 프로덕트 개발 진행
-- 📊 **Data Analysis**: `Google BigQuery`, `Apache Superset` BI 툴을 통해 `SQL`과 `Python` 자유롭게 활용하여 인사이트 도출
-- 💹 **Financial Agent**: 증권사 API 연동, 퀀트 백테스팅, 매크로 인텔리전스 파이프라인을 하나로 통합한 **자율 금융 AI Agent** 구축에 현재 깊은 관심을 두고 연구 중.
+- ✨ Scalable **automation systems** and **value creation structures**
+- 🤖 **AI Coding & Building**: Developing products and utilizing AI coding with tools like `Google Antigravity`, `OpenClaw`, and `Vercel`.
+- 📊 **Data Analysis**: Freely leveraging `SQL` and `Python` to derive actionable insights using BI tools like `Google BigQuery` and `Apache Superset`.
+- 💹 **Financial Agent**: Currently exploring the construction of autonomous **Financial AI Agents** — integrating brokerage APIs, quantitative backtesting, and macro intelligence pipelines into a unified, self-operating investment research system.
 
 ---
 
@@ -208,11 +208,11 @@
   <img src="https://img.shields.io/badge/Kakao%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
 </p>
 
-#### 💻 [삼성전자 임직원몰 세금 Calculator](https://samsungtax.vercel.app) ('26.3 배포 완료)
+#### 💻 [Samsung Electronics Employees몰 세금 Calculator](https://samsungtax.vercel.app) ('26.3 배포 완료)
 
-> **임직원몰 할인 구매 시 발생하는 복리후생비 과세금액 시뮬레이션 웹 애플리케이션** (React 19 + TypeScript 기반)
+> **Employees몰 할인 구매 시 발생하는 employee benefits taxable amount 시뮬레이션 웹 애플리케이션** (React 19 + TypeScript 기반)
 
-- **주요 기능**: 정상가/임직원가에 따른 할인 혜택 산출, 7개 소득세율 구간에 따른 Gross-up 방식의 소득세 및 본인 부담 세금 자동 계산.
+- **주요 기능**: 정상가/Employees가에 따른 할인 혜택 산출, 7개 소득세율 구간에 따른 Gross-up 방식의 소득세 및 본인 부담 세금 자동 계산.
 - **Tool Utilization & Troubleshooting**:
   - **Responsive Layout Migration**: 기존 PSU 계산기의 디자인 시스템을 계승하되, 복잡한 단계별 계산 결과창 구성시 모바일에서 발생하는 Flex 래핑 한계와 가로 스크롤 이슈를 유틸리티 튜닝으로 완벽히 해결.
   - **Extreme Bundle Optimization**: 무거운 서드파티 UI 패키지 의존성을 완전히 벗어나 순수 React State 및 Tailwind 애니메이션만 채택, 불필요한 패키지를 대거 청소하여 극단적으로 가벼운 클라이언트 번들 사이즈 최적화 확보.
@@ -224,15 +224,15 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-#### 💻 [삼성전자 PSU Calculator](https://samsungpsu.vercel.app/) ('26.2월 배포 완료)
+#### 💻 [Samsung Electronics PSU Calculator](https://samsungpsu.vercel.app/) (Deployed Feb '26)
 
-> **임직원들을 위한 PSU 가치 시뮬레이션 웹 애플리케이션** (React 19 + TypeScript 기반)
+> **A PSU Value Simulation Web Application for Employees** (React 19 + TypeScript)
 
-- **주요 기능**: 예상 주가에 따른 PSU 0x ~ 2.0x 지급 배수 자동 계산, 직급별 기준(CL1-2, CL3-4) 모델링 및 KST 기준 캐싱.
+- **Key Features**: Automatic calculation of 0x ~ 2.0x PSU payout multiples based on estimated stock prices, level-based modeling (CL1-2, CL3-4), and KST-based caching.
 - **Tool Utilization & Troubleshooting**:
-  - **Vercel Serverless Functions**: 무료 외부 Proxy의 대역폭 한계와 CORS 이슈를 극복하기 위해 자체 API Endpoint를 구축하여 서비스 안정성 확보.
-  - **Vercel Edge Caching**: Yahoo Finance API의 잦은 호출로 인한 Rate Limit 문제를 타개하기 위해 12시간 단위 Edge Caching을 적용, 응답 속도 최적화 및 외부 API 의존도 저감.
-  - **Bundle Optimization**: 무거운 써드파티 라이브러리(radix, axios, recharts 등) 의존성을 과감히 제거하고 순수 React 기반으로 성능을 최적화하여 쾌적한 오가닉 트래픽 환경 구축 및 구글 Adsense 연동 완료.
+  - **Vercel Serverless Functions**: Secured service stability by building a custom API endpoint to overcome the bandwidth limitations and CORS issues of free external proxies.
+  - **Vercel Edge Caching**: Applied 12-hour Edge Caching to overcome Rate Limit issues caused by frequent Yahoo Finance API calls, optimizing response speed and reducing reliance on external APIs.
+  - **Bundle Optimization**: Drastically removed heavy third-party library dependencies (radix, axios, recharts, etc.) and optimized performance using pure React, building a pleasant organic traffic environment and completing Google AdSense integration.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
