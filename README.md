@@ -20,19 +20,19 @@
 
 ### 🚀 My Projects
 
-#### 🧠 Second Brain / Knowledge Ontology 구축 (2026.04~ 진행 중)
+#### 🧠 Second Brain / Knowledge Ontology (2026.04~ Ongoing)
 
-> 지식의 연결을 설계하고, 사고를 진화시키는 구조
+> Designing knowledge connections. Evolving thinking.
 
-**핵심 개념:** 세션, 메모리, 스킬, Obsidian 노트를 Graph로 연결하는 진화형 Personal DB
+**Core Idea:** An evolving Personal DB that links sessions, memories, skills, and Obsidian notes into a Graph
 
-- **분산 저장**: sessions(대화), memories(설정), skills(스킬), obsidian-notes(지식)  
-- **자동 연결**: 모든 노드 간 참조 네트워크 형성  
-- **지속 진화**: 해결한 작업 → 스킬 저장 → 자동 로드 → 점진적 학습  
-- **멀티모달**: 텍스트, 코드, JSON, 이미지, API 데이터 통합  
-- **영구 보존**: Git + Obsidian로 시간순 추적 가능
+- **Distributed storage**: sessions (conversations), memories (settings), skills (reusable skills), obsidian-notes (knowledge)
+- **Automatic linking**: Reference network between all nodes
+- **Continuous evolution**: Work solved → skill stored → auto-loaded → progressive learning
+- **Multi-modal**: Text, code, JSON, images, API data integration
+- **Permanent preservation**: Git + Obsidian for chronological tracking
 
-**관련 오픈소스 빌딩 블록 (학습 및 기여 중):**
+**Related Open Source Building Blocks (learning & contributing):**
 
 * **[open-trading-api](https://github.com/chnyl/open-trading-api)** — KIS API + LLM 자동화 파이프라인. 전략 설계 → 백테스팅 → MCP 기반 실주문 실행 흐름 학습
 * **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅. 빠른 멀티에셋 전략 프로토타입 및 HTML 리포트 생성 실험
@@ -154,19 +154,19 @@
 
 ### 🚀 My Projects
 
-#### 🧠 Second Brain / Knowledge Ontology 구축 (2026.04~ 진행 중)
+#### 🧠 Second Brain / Knowledge Ontology (2026.04~ Ongoing)
 
-> 지식의 연결을 설계하고, 사고를 진화시키는 구조
+> Designing knowledge connections. Evolving thinking.
 
-**핵심 개념:** 세션, 메모리, 스킬, Obsidian 노트를 Graph로 연결하는 진화형 Personal DB
+**Core Idea:** An evolving Personal DB that links sessions, memories, skills, and Obsidian notes into a Graph
 
-- **분산 저장**: sessions(대화), memories(설정), skills(스킬), obsidian-notes(지식)  
-- **자동 연결**: 모든 노드 간 참조 네트워크 형성  
-- **지속 진화**: 해결한 작업 → 스킬 저장 → 자동 로드 → 점진적 학습  
-- **멀티모달**: 텍스트, 코드, JSON, 이미지, API 데이터 통합  
-- **영구 보존**: Git + Obsidian로 시간순 추적 가능
+- **Distributed storage**: sessions (conversations), memories (settings), skills (reusable skills), obsidian-notes (knowledge)
+- **Automatic linking**: Reference network between all nodes
+- **Continuous evolution**: Work solved → skill stored → auto-loaded → progressive learning
+- **Multi-modal**: Text, code, JSON, images, API data integration
+- **Permanent preservation**: Git + Obsidian for chronological tracking
 
-**관련 오픈소스 빌딩 블록 (학습 및 기여 중):**
+**Related Open Source Building Blocks (learning & contributing):**
 
 * **[open-trading-api](https://github.com/chnyl/open-trading-api)** — KIS API + LLM 자동화 파이프라인. 전략 설계 → 백테스팅 → MCP 기반 실주문 실행 흐름 학습
 * **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅. 빠른 멀티에셋 전략 프로토타입 및 HTML 리포트 생성 실험
