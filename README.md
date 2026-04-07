@@ -19,24 +19,45 @@
 
 ### 🚀 My Projects
 
-#### � Financial Agent R&D (In Progress since Mar '26)
+#### 🧠 Second Brain / Knowledge Ontology 구축 (2026.04~ 진행 중)
 
-> **Building a self-operating Financial AI Agent ecosystem** — connecting brokerage execution, quantitative strategy research, and macro market intelligence
+> **"뇌처럼 촘촘히 연결된 개인 Knowledge Graph" 구축** — Hermes Agent를 기반으로 모든 지식, 경험, 작업을 자동 연결하는 진화형 Personal DB 시스템
 
-Actively studying and contributing to the following open-source projects as the core building blocks:
+**핵심 비전:**  
+세션마다 생성되는 대화, 저장된 메모리, 스킬 라이브러리, Obsidian 노트, 파일 시스템을 모두 Graph 형태로 연결하여 "기억하고 학습하는" 개인 지식 베이스 구축
 
-* **[open-trading-api](https://github.com/chnyl/open-trading-api)** — Korea Investment & Securities (KIS) Open API sample code repository, purpose-built for LLM-based automation. Exploring the full pipeline: Strategy Builder → Backtester → Live Order Execution via MCP
-* **[vectorbt](https://github.com/chnyl/vectorbt)** — Vectorized backtesting library powered by Pandas/NumPy/Numba. Using it to prototype rapid multi-asset strategy experiments and HTML report generation (BTC/ETH SMA crossover, parameter heatmaps, Bollinger Bands)
-* **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — Automated macro indicator & heatmap report bot (KOSPI, S&P 500, Gold, VIX, BTC, etc.) that generates HTML reports and delivers them via Telegram on a GitHub Actions schedule
-* **[dexter](https://github.com/chnyl/dexter)** — Autonomous financial research agent (TypeScript/Bun) that decomposes complex financial questions into structured research plans, executes real-time data gathering, and self-validates results. Studying as a reference architecture for building my own financial agent
+**주요 구성 요소:**
+
+|| 요소 | 설명 |
+||------|------|
+|| **🌐 분산 저장층** | `sessions/`(세션기록) + `memories/`(크로스세션 메모리) + `skills/`(재사용 스킬) + `obsidian-notes/`(정리된 지식) |
+|| **🔗 동적 연결망** | 스킬 ↔ 세션 ↔ 메모리 ↔ 파일 ↔ Obsidian 노트 간 자동 참조 네트워크 형성 |
+|| **🔄 Self-Evolution** | 해결한 작업을 스킬로 저장 → 다음 세션 자동 로드 → 쓸수록 똑똑해지는 피드백 루프 |
+|| **🎯 Multi-Modal** | 텍스트, 코드, JSON, 이미지, API 데이터, 금융 정보 등 모든 형식의 지식 노드로 통합 |
+|| **🚀 영구 보존** | Git 버전관리 + Obsidian Vault로 모든 지식 그래프 안전 보관 및 시각화 |
+
+**현재 진행 상황:**
+- ✅ Hermes Agent 설치 및 Telegram Gateway 연동 완료
+- ✅ 크로스세션 메모리 시스템 활성화
+- ✅ 스킬 생성/관리 워크플로 구축
+- ✅ Obsidian Vault Git 연동 완료
+- 🔄 Knowledge Graph 자동 연결 알고리즘 최적화 중
+- 🔄 세션 검색 및 의도 이해 파이프라인 개선
+
+**관련 오픈소스 빌딩 블록 (학습 및 기여 중):**
+
+* **[open-trading-api](https://github.com/chnyl/open-trading-api)** — KIS API + LLM 자동화 파이프라인. 전략 설계 → 백테스팅 → MCP 기반 실주문 실행 흐름 학습
+* **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅. 빠른 멀티에셋 전략 프로토타입 및 HTML 리포트 생성 실험
+* **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — GitHub Actions 기반 매크로 지표 자동 모니터링 봇. 시장 데이터 수집 → HTML 리포트 → Telegram 전송 파이프라인
+* **[dexter](https://github.com/chnyl/dexter)** — TypeScript/Bun 기반 자율 금융 리서치 에이전트. 복잡한 질문 분해 → 실시간 데이터 수집 → 자기검증 구조 참조 아키텍처
+* **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — 핵심 플랫폼. Self-Evolution 스킬 시스템, 크로스세션 메모리, 멀티에이전트 워크플로 제공
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Hermes%20Agent-6366F1?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2EA043?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VectorBT-4B0082?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/KIS%20Open%20API-E8343A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
@@ -145,24 +166,45 @@ Actively studying and contributing to the following open-source projects as the 
 
 ### 🚀 My Projects
 
-#### 💹 Financial Agent R&D ('26.3~ 진행 중)
+#### 🧠 Second Brain / Knowledge Ontology 구축 (2026.04~ 진행 중)
 
-> **자율 금융 AI Agent 생태계 구축** — 증권사 실행, 퀀트 전략 리서치, 매크로 시장 인텔리전스를 연결하는 시스템 설계 중
+> **"뇌처럼 촘촘히 연결된 개인 Knowledge Graph" 구축** — Hermes Agent를 기반으로 모든 지식, 경험, 작업을 자동 연결하는 진화형 Personal DB 시스템
 
-핵심 빌딩 블록으로 아래 오픈소스 프로젝트들을 적극 탐구 및 기여 중:
+**핵심 비전:**  
+세션마다 생성되는 대화, 저장된 메모리, 스킬 라이브러리, Obsidian 노트, 파일 시스템을 모두 Graph 형태로 연결하여 "기억하고 학습하는" 개인 지식 베이스 구축
 
-- **[open-trading-api](https://github.com/chnyl/open-trading-api)** — LLM 자동화 환경에 최적화된 한국투자증권 KIS Open API 샘플 코드 레포. 전략 설계 → 백테스터 → MCP 기반 실주문 실행까지 전체 파이프라인 학습 중
-- **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅 라이브러리. BTC/ETH SMA 크로스오버, 파라미터 히트맵, 볼린저 밴드 등 멀티 에셋 전략 프로토타이핑 및 인터랙티브 HTML 리포트 생성 실험 중
-- **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — KOSPI, S&P 500, 금, VIX, BTC 등 거시 지표와 지수 히트맵을 종합해 HTML 리포트를 생성하고 텔레그램으로 자동 발송하는 매크로 모니터링 봇. GitHub Actions 스케줄 자동화 적용
-- **[dexter](https://github.com/chnyl/dexter)** — 복잡한 금융 질문을 구조화된 리서치 플랜으로 분해하고, 실시간 시장 데이터를 수집·자기검증하는 자율 금융 리서치 Agent (TypeScript/Bun 기반). 자체 금융 Agent 설계를 위한 레퍼런스 아키텍처로 학습 중
+**주요 구성 요소:**
+
+|| 요소 | 설명 |
+||------|------|
+|| **🌐 분산 저장층** | `sessions/`(세션기록) + `memories/`(크로스세션 메모리) + `skills/`(재사용 스킬) + `obsidian-notes/`(정리된 지식) |
+|| **🔗 동적 연결망** | 스킬 ↔ 세션 ↔ 메모리 ↔ 파일 ↔ Obsidian 노트 간 자동 참조 네트워크 형성 |
+|| **🔄 Self-Evolution** | 해결한 작업을 스킬로 저장 → 다음 세션 자동 로드 → 쓸수록 똑똑해지는 피드백 루프 |
+|| **🎯 Multi-Modal** | 텍스트, 코드, JSON, 이미지, API 데이터, 금융 정보 등 모든 형식의 지식 노드로 통합 |
+|| **🚀 영구 보존** | Git 버전관리 + Obsidian Vault로 모든 지식 그래프 안전 보관 및 시각화 |
+
+**현재 진행 상황:**
+- ✅ Hermes Agent 설치 및 Telegram Gateway 연동 완료
+- ✅ 크로스세션 메모리 시스템 활성화
+- ✅ 스킬 생성/관리 워크플로 구축
+- ✅ Obsidian Vault Git 연동 완료
+- 🔄 Knowledge Graph 자동 연결 알고리즘 최적화 중
+- 🔄 세션 검색 및 의도 이해 파이프라인 개선
+
+**관련 오픈소스 빌딩 블록 (학습 및 기여 중):**
+
+* **[open-trading-api](https://github.com/chnyl/open-trading-api)** — KIS API + LLM 자동화 파이프라인. 전략 설계 → 백테스팅 → MCP 기반 실주문 실행 흐름 학습
+* **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅. 빠른 멀티에셋 전략 프로토타입 및 HTML 리포트 생성 실험
+* **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — GitHub Actions 기반 매크로 지표 자동 모니터링 봇. 시장 데이터 수집 → HTML 리포트 → Telegram 전송 파이프라인
+* **[dexter](https://github.com/chnyl/dexter)** — TypeScript/Bun 기반 자율 금융 리서치 에이전트. 복잡한 질문 분해 → 실시간 데이터 수집 → 자기검증 구조 참조 아키텍처
+* **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — 핵심 플랫폼. Self-Evolution 스킬 시스템, 크로스세션 메모리, 멀티에이전트 워크플로 제공
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Hermes%20Agent-6366F1?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2EA043?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VectorBT-4B0082?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/KIS%20Open%20API-E8343A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
