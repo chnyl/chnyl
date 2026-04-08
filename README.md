@@ -13,7 +13,7 @@
 * ✨ Scalable **automation systems** and **value creation structures**
 * 🤖 **AI Coding & Building**: Developing products and utilizing AI coding with tools like `Google Antigravity`, `OpenClaw`, and `Vercel`.
 * 📊 **Data Analysis**: Freely leveraging `SQL` and `Python` to derive actionable insights using BI tools like `Google BigQuery` and `Apache Superset`.
-* 💹 **Financial Agent**: Currently exploring the construction of autonomous **Financial AI Agents** — integrating brokerage APIs, quantitative backtesting, and macro intelligence pipelines into a unified, self-operating investment research system.
+* 💹 **Financial AI Agent**: Currently exploring the construction of autonomous **Financial AI Agents** — integrating brokerage APIs, quantitative backtesting, and macro intelligence pipelines into a unified, self-operating investment research system.
 
 ---
 
@@ -144,46 +144,39 @@
 ### 🌟 About Me - AI BUILDING EVERYDAY!
 <h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
 
-- ✨ Scalable **automation systems** and **value creation structures**
-- 🤖 **AI Coding & Building**: Developing products and utilizing AI coding with tools like `Google Antigravity`, `OpenClaw`, and `Vercel`.
-- 📊 **Data Analysis**: Freely leveraging `SQL` and `Python` to derive actionable insights using BI tools like `Google BigQuery` and `Apache Superset`.
-- 💹 **Financial Agent**: Currently exploring the construction of autonomous **Financial AI Agents** — integrating brokerage APIs, quantitative backtesting, and macro intelligence pipelines into a unified, self-operating investment research system.
+- ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조**
+- 🤖 **AI Coding & Building**: `Google Antigravity`, `OpenClaw`, `Vercel` 등 활용한 AI Coding 및 프로덕트 개발 진행
+- 📊 **Data Analysis**: `Google BigQuery`, `Apache Superset` BI 툴을 통해 `SQL`과 `Python` 자유롭게 활용하여 인사이트 도출
+- 🎨 **Visualization**: 15개 이상 PPT 단축키 사용, 벡터 이미지 편집 능력
+- 🤝 **Partnership**: 국내/외 글로벌 대기업 파트너십
+- 💹 **Financial Agent**: 증권사 API 연동, 퀀트 백테스팅, 매크로 인텔리전스 파이프라인을 하나로 통합한 **자율 금융 AI Agent** 구축에 현재 깊은 관심을 두고 연구 중.
 
 ---
 
 ### 🚀 My Projects
 
-#### 🧠 Second Brain / Knowledge Ontology (2026.04~ Ongoing)
+#### 💹 Financial Agent R&D ('26.3~ 진행 중)
 
-> Designing knowledge connections. Evolving thinking.
+> **자율 금융 AI Agent 생태계 구축** — 증권사 실행, 퀀트 전략 리서치, 매크로 시장 인텔리전스를 연결하는 시스템 설계 중
 
-**Core Idea:** An evolving Personal DB that links sessions, memories, skills, and Obsidian notes into a Graph
+핵심 빌딩 블록으로 아래 오픈소스 프로젝트들을 적극 탐구 및 기여 중:
 
-- **Distributed storage**: sessions (conversations), memories (settings), skills (reusable skills), obsidian-notes (knowledge)
-- **Automatic linking**: Reference network between all nodes
-- **Continuous evolution**: Work solved → skill stored → auto-loaded → progressive learning
-- **Multi-modal**: Text, code, JSON, images, API data integration
-- **Permanent preservation**: Git + Obsidian for chronological tracking
-
-**Related Open Source Building Blocks (learning & contributing):**
-
-* **[open-trading-api](https://github.com/chnyl/open-trading-api)** — KIS API + LLM 자동화 파이프라인. 전략 설계 → 백테스팅 → MCP 기반 실주문 실행 흐름 학습
-* **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅. 빠른 멀티에셋 전략 프로토타입 및 HTML 리포트 생성 실험
-* **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — GitHub Actions 기반 매크로 지표 자동 모니터링 봇. 시장 데이터 수집 → HTML 리포트 → Telegram 전송 파이프라인
-* **[dexter](https://github.com/chnyl/dexter)** — TypeScript/Bun 기반 자율 금융 리서치 에이전트. 복잡한 질문 분해 → 실시간 데이터 수집 → 자기검증 구조 참조 아키텍처
-* **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — 핵심 플랫폼. Self-Evolution 스킬 시스템, 크로스세션 메모리, 멀티에이전트 워크플로 제공
+- **[open-trading-api](https://github.com/chnyl/open-trading-api)** — LLM 자동화 환경에 최적화된 한국투자증권 KIS Open API 샘플 코드 레포. 전략 설계 → 백테스터 → MCP 기반 실주문 실행까지 전체 파이프라인 학습 중
+- **[vectorbt](https://github.com/chnyl/vectorbt)** — Pandas/NumPy/Numba 기반 벡터화 백테스팅 라이브러리. BTC/ETH SMA 크로스오버, 파라미터 히트맵, 볼린저 밴드 등 멀티 에셋 전략 프로토타이핑 및 인터랙티브 HTML 리포트 생성 실험 중
+- **[Macro-Pulse](https://github.com/chnyl/Macro-Pulse)** — KOSPI, S&P 500, 금, VIX, BTC 등 거시 지표와 지수 히트맵을 종합해 HTML 리포트를 생성하고 텔레그램으로 자동 발송하는 매크로 모니터링 봇. GitHub Actions 스케줄 자동화 적용
+- **[dexter](https://github.com/chnyl/dexter)** — 복잡한 금융 질문을 구조화된 리서치 플랜으로 분해하고, 실시간 시장 데이터를 수집·자기검증하는 자율 금융 리서치 Agent (TypeScript/Bun 기반). 자체 금융 Agent 설계를 위한 레퍼런스 아키텍처로 학습 중
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Hermes%20Agent-6366F1?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-2EA043?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VectorBT-4B0082?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/KIS%20Open%20API-E8343A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ---
-
 #### 💌 [모바일 청첩장](https://github.com/chnyl/wed_invi_sharing) ('26.3월 배포)
 
 > **하루 만에 완성한 프리미엄 반응형 웹 모바일 청첩장** (React 19 + TypeScript 기반)
