@@ -5,7 +5,6 @@
 </div>
 
 > **Ontology-driven Second Brain & Personal Knowledge DB**  
-> *지식의 연결을 설계하고, 사고를 진화시키는 구조*
 
 ### 🌟 About Me - AI BUILDING EVERYDAY!
 <h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
