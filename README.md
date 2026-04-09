@@ -147,8 +147,6 @@
 - ✨ 스케일 가능한 **자동화 시스템** 및 **가치 창출 구조**
 - 🤖 **AI Coding & Building**: `Google Antigravity`, `OpenClaw`, `Vercel` 등 활용한 AI Coding 및 프로덕트 개발 진행
 - 📊 **Data Analysis**: `Google BigQuery`, `Apache Superset` BI 툴을 통해 `SQL`과 `Python` 자유롭게 활용하여 인사이트 도출
-- 🎨 **Visualization**: 15개 이상 PPT 단축키 사용, 벡터 이미지 편집 능력
-- 🤝 **Partnership**: 국내/외 글로벌 대기업 파트너십
 - 💹 **Financial Agent**: 증권사 API 연동, 퀀트 백테스팅, 매크로 인텔리전스 파이프라인을 하나로 통합한 **자율 금융 AI Agent** 구축에 현재 깊은 관심을 두고 연구 중.
 
 ---
