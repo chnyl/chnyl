@@ -25,6 +25,52 @@
 
 **Core Idea:** An evolving Personal DB that links sessions, memories, skills, and Obsidian notes into a Graph
 
+```mermaid
+graph TB
+    subgraph PLATFORMS["💬 소통 채널"]
+        TG["Telegram Gateway"]
+        CLI["CLI"]
+    end
+
+    subgraph CORE["🧠 Hermes Agent Core"]
+        AGENT["LLM Agent<br/>메모리 + 스킬 + 도구"]
+        MEMORY["MEMORY.md<br/>장기 기억"]
+        SKILLS["Skills (60+)<br/>프로시저 메모리"]
+        SESSIONS["sessions/<br/>대화 기록"]
+    end
+
+    subgraph AUTOMATION["⏰ 자동화"]
+        CRON["Cron Jobs"]
+        VAC["VAC 힌트 생성기<br/>Python 크롤링 + LLM"]
+        FINANCE["금융 뉴스 모니터링<br/>15분마다"]
+    end
+
+    subgraph KNOWLEDGE["📚 지식 베이스"]
+        WIKI["~/wiki<br/>LLM Wiki"]
+        OBSIDIAN["obsidian-notes<br/>옵시디언 Vault"]
+        NOTION_RAW["Notion Export<br/>1,925개 → 16개 통합"]
+    end
+
+    subgraph GITHUB["🐙 Git 연동"]
+        HERMES_REPO["chnyl/hermes-agent<br/>설정 + 스킬 + 세션"]
+        WIKI_REPO["chnyl/wiki<br/>지식 베이스"]
+    end
+
+    TG --> AGENT
+    CLI --> AGENT
+    AGENT --> MEMORY
+    AGENT --> SKILLS
+    AGENT --> SESSIONS
+    CRON --> VAC
+    CRON --> FINANCE
+    VAC --> TG
+    AGENT --> WIKI
+    WIKI --> WIKI_REPO
+    AGENT --> HERMES_REPO
+    NOTION_RAW -.-> WIKI
+    OBSIDIAN -.-> HERMES_REPO
+```
+
 - **Distributed storage**: sessions (conversations), memories (settings), skills (reusable skills), obsidian-notes (knowledge)
 - **Automatic linking**: Reference network between all nodes
 - **Continuous evolution**: Work solved → skill stored → auto-loaded → progressive learning
