@@ -62,6 +62,15 @@
 - **멀티모달**: 텍스트, 코드, JSON, 이미지, API 데이터 통합
 - **영구 보존**: Git + Obsidian으로 연대기적 추적
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes%20Agent-6366F1?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2EA043?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
 ---
 
 #### 💌 [모바일 청첩장](https://github.com/chnyl/wed_invi_sharing) ('26.3월 배포)

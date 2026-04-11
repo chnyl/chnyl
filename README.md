@@ -63,6 +63,15 @@
 - **Multi-modal**: Text, code, JSON, images, API data integration
 - **Permanent preservation**: Git + Obsidian for chronological tracking
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes%20Agent-6366F1?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2EA043?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
 ---
 
 #### 💌 [Mobile Wedding Invitation](https://github.com/chnyl/wed_invi_sharing) (Deployed Mar '26)
