@@ -1,16 +1,9 @@
 <div align="center">
-  <p>🇰🇷 <a href="./README.ko.md">한국어</a></p>
-</div>
-
-<div align="center">
 <h2> 👋 Welcome to CHNYL Labs! </h2>
 </div>
 
-> **Ontology-driven Second Brain & Personal Knowledge DB**  
-
 ### 🌟 About Me - AI BUILDING EVERYDAY!
 <h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
-
 
 * ✨ Scalable **automation systems** and **value creation structures**
 * 🤖 **AI Coding & Building**: Developing products and utilizing AI coding with tools like `Google Antigravity`, `OpenClaw`, and `Vercel`.
@@ -18,6 +11,9 @@
 * 💹 **Financial AI Agent**: Building autonomous trading systems — Kronos AI prediction + NFI rule-based hybrid strategy on Binance Futures. Modular architecture with toggle-based mode switching, one-click deployment, and Telegram-integrated live monitoring.
 
 ---
+<div align="center">
+  <p>🇰🇷 <a href="./README.ko.md">한국어</a></p>
+</div>
 
 ### 🚀 My Projects
 
