@@ -1,12 +1,6 @@
 <div align="center">
-  <p>🇺🇸 <a href="./README.md">English</a></p>
-</div>
-
-<div align="center">
   <h2> 👋 Welcome to CHNYL Labs! </h2></div>
 <br/>
-
-> **Ontology-driven Second Brain & Personal Knowledge DB**
 
 ### 🌟 About Me - AI BUILDING EVERYDAY!
 <h3> "Evolving AI Product Builder | Driving innovation by bridging technical depth with product vision" </h3>
@@ -17,6 +11,9 @@
 - 💹 **Financial AI Agent**: Kronos AI 예측 + NFI 규칙 기반 하이브리드 전략으로 바이낸스 선물 자동매매 시스템 구축 중. 토글 기반 모드 전환, 원클릭 배포, 텔레그램 실시간 모니터링 연동.
 
 ---
+<div align="center">
+  <p>🇺🇸 <a href="./README.md">English</a></p>
+</div>
 
 ### 🚀 My Projects
 
